@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "cc",
+      "type": "com.fipura.contentcalendar.config.ContentCalendarProperties",
+      "sourceType": "com.fipura.contentcalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cc.about",
+      "type": "java.lang.String",
+      "sourceType": "com.fipura.contentcalendar.config.ContentCalendarProperties"
+    },
+    {
+      "name": "cc.welcome-message",
+      "type": "java.lang.String",
+      "sourceType": "com.fipura.contentcalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "hints": []
+}
