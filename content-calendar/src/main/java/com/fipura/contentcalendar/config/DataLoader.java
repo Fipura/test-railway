@@ -1,4 +1,3 @@
-/*
 package com.fipura.contentcalendar.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -31,4 +30,3 @@ public class DataLoader implements CommandLineRunner {
         }
     }
 }
-*/
